@@ -44,7 +44,7 @@ herjournal/
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/herjournal.git
+git clone https://github.com/samii83/herjournal.git
 cd herjournal
 ```
 
